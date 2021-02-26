@@ -11,7 +11,7 @@ JavaScript 小游戏
 
 ## 飞机大战
 
-![](https://tva1.sinaimg.cn/large/008eGmZEgy1go0wdgu5y3g309y0eee86.gif)
+![](https://tva1.sinaimg.cn/large/008eGmZEgy1go0whcmgpug308w0cvx6r.gif)
 
 ### flappy bird
 
